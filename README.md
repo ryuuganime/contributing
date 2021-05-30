@@ -1,0 +1,2 @@
+# contributing
+🔏 Ryuuganime Contribution Guidelines
